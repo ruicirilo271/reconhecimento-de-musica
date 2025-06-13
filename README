@@ -1,0 +1,4 @@
+app.py -  grava e reconhece a musica
+app1.py - reconhece a musica e grava o id3
+app2.py reconhece musicas dentro de um folder e grava id3
+app3.py mesmo que app2.py so que renomeia o arquivo
